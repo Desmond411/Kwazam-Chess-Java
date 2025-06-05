@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BtnModels
+comment1.params=chessBtn\ chessBox\ chessTurn\ frame
+comment1.target=void\ greenBtn(ChessButtons,\ ChessButtons[],\ Info,\ javax.swing.JFrame)
+comment2.params=chessBtn\ chessBox
+comment2.target=void\ redBtn(ChessButtons,\ ChessButtons[])
+comment3.params=frame
+comment3.target=void\ modelStart(javax.swing.JFrame)
+comment4.params=chessBox\ chessTurn
+comment4.target=void\ modelSave(ChessButtons[],\ Info)
+comment5.params=frame\ loadedBox
+comment5.target=void\ modelLoad(javax.swing.JFrame,\ ChessButtons[])
+numComments=6

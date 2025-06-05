@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BizMoveStrategy
+comment1.params=chessBtn\ chessBox
+comment1.target=void\ move(ChessButtons,\ ChessButtons[])
+comment2.params=newPos\ chessBox
+comment2.target=void\ checkAndHighlightMove(int,\ ChessButtons[])
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MoveStrategy
+comment1.params=chessBtn\ chessBox
+comment1.target=void\ move(ChessButtons,\ ChessButtons[])
+numComments=2

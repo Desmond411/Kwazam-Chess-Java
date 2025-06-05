@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ChessView
+comment1.params=frame
+comment1.target=ChessView(javax.swing.JFrame)
+comment2.params=frame\ chessBox
+comment2.target=ChessView(javax.swing.JFrame,\ ChessButtons[])
+comment3.params=chessBox\ frame
+comment3.target=ChessView(ChessButtons[],\ javax.swing.JFrame)
+comment4.params=frame\ loadedBox\ chessTurn
+comment4.target=ChessView(javax.swing.JFrame,\ ChessButtons[],\ Info)
+comment5.params=frame\ loadedBox\ loadedTurn
+comment5.target=void\ handleGameLoad(javax.swing.JFrame,\ ChessButtons[],\ Info)
+comment6.params=Winner
+comment6.target=void\ GameEnd(java.lang.String)
+numComments=7

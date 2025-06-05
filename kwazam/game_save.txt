@@ -1,0 +1,23 @@
+Rounds: 6
+Turn: 10
+SideTurn: Red
+0,Blue,Tor
+1,Blue,Biz
+2,Blue,Sau
+4,Blue,Xor
+7,Red,Biz
+8,Blue,Ram
+9,Blue,Ram
+10,Blue,Ram
+16,Blue,Ram
+23,Blue,Biz
+27,Red,Ram
+29,Red,Ram
+30,Red,Ram
+31,Red,Ram
+33,Red,Ram
+35,Red,Xor
+36,Red,Biz
+37,Red,Sau
+39,Red,Tor
+End
